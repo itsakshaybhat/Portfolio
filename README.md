@@ -4,8 +4,8 @@ This repository contains multiple portfolio websites I built. Each portfolio is 
 
 ## Projects in this repository
 
-- [Try1](Try1) — A React + Vite portfolio site (responsive, Framer Motion animations, tsparticles background, contact form via EmailJS). See `Try1/README.md` for full details.
-- Try2 — (To be added) Another portfolio site I have built; I will add this folder next. When added, it will include its own README with run instructions.
+- [Portfolio1](Try1) — A React + Vite portfolio site (responsive, Framer Motion animations, tsparticles background, contact form via EmailJS). See `Try1/README.md` for full details.
+- [Portfolio2] — (Try2) Another portfolio site I have built; I will add this folder next. When added, it will include its own README with run instructions.
 
 ## How to run a project locally
 
